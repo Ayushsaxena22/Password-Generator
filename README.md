@@ -5,7 +5,7 @@ A simple Java application that generates strong, secure random passwords based o
 ---
 
 ## ⚙️ Features
-
+-  unauthorized person cannot access your password
 - Generate passwords of custom length
 - Supports uppercase, lowercase, digits, and special characters
 - Easy to use and extend
